@@ -3,6 +3,7 @@ body{
     margin: 0% auto;
     padding: 0%;
     max-width: fit-content;
+    min-width: max-content;
 
 }
 .header-main, .sect1, .sect2, .sect3 .sect4{
